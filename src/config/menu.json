@@ -1,0 +1,80 @@
+{
+  "main": [
+    {
+      "name": "Trang chủ",
+      "url": "/"
+    },
+    {
+      "name": "Giải pháp",
+      "url": "/service",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Tích hợp hệ thống",
+          "url": "/contact"
+        },
+        {
+          "name": "An ninh mạng",
+          "url": "/blog"
+        },
+        {
+          "name": "Dịch vụ IT",
+          "url": "/authors"
+        },
+        {
+          "name": "Chuyển đổi số",
+          "url": "/categories"
+        }
+      ]
+    },
+    {
+      "name": "Liên hệ",
+      "url": "/contact"
+    },
+    {
+      "name": "Về chúng tôi",
+      "url": "/about"
+    },
+    {
+      "name": "Pages",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Elements",
+          "url": "/elements"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
+        {
+          "name": "Authors",
+          "url": "/authors"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Search",
+          "url": "/search"
+        },
+        {
+          "name": "404 Page",
+          "url": "/404"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}
