@@ -38,7 +38,9 @@ const Posts = () => {
               <div className="row">
                 {currentPosts.map((post: any, index: number) => (
                   <div key={index} className="mb-14 md:col-6">
-                    <BlogCard data={post} />
+                    <BlogCard 
+                      data={post} 
+                    />
                   </div>
                 ))}
               </div>

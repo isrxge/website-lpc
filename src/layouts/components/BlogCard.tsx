@@ -48,7 +48,7 @@ const BlogCard = ({ data }: { data: Post }) => {
         className="btn btn-outline-primary btn-sm"
         href={`/${blog_folder}/${data.slug}`}
       >
-        read more
+        đọc thêm
       </Link>
     </div>
   );
